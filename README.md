@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
