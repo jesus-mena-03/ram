@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Update CITATION.cff with cffinit corrections (#8658)
