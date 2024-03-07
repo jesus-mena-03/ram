@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
